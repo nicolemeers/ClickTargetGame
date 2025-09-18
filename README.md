@@ -5,6 +5,8 @@ Click a target that moves to a new location every few seconds to increase your s
 This project uses 
 - [SDL2](https://wiki.libsdl.org/SDL2/FrontPage)
 - [SDL2_ttf](https://wiki.libsdl.org/SDL2_ttf/FrontPage)
+- *Note*:
+   - The fonts used in this project are found in the C:/Windows/Fonts folder
 
 
 ### Setup Instructions
