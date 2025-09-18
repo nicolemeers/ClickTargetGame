@@ -29,3 +29,17 @@ x64/
 Win32/
 bin/
 obj/
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+*.obj
+*.exe
+*.pdb
+
+# Visual Studio files
+*.suo
+*.user
+*.VC.db
+*.cache
+*.log
