@@ -78,9 +78,11 @@ ClickTarget::~ClickTarget()
 	delete m_window;
 	delete m_renderer;
 	delete m_target;
+	delete m_text;
 	m_window = nullptr;
 	m_renderer = nullptr;
 	m_target = nullptr;
+	m_text = nullptr;
 }
 
 void ClickTarget::drawWindow()
